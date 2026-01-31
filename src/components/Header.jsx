@@ -7,7 +7,7 @@ export default function Header() {
 
       <p className="hero-text">
         Étudiant en développement, orienté projets concrets et solutions
-        full-stack. Actuellement à la recherche d’une alternance.
+        full-stack. Actuellement à la recherche d’un stage disponible immediatement.
       </p>
 
       <div className="hero-actions">
