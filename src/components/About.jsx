@@ -16,7 +16,7 @@ export default function About() {
       </p>
 
       <p>
-        Je recherche aujourd’hui une alternance pour approfondir mes compétences,
+        Je recherche aujourd’hui un stage alterné pour approfondir mes compétences,
         gagner en expérience terrain et m’investir durablement dans une équipe
         technique.
       </p>
